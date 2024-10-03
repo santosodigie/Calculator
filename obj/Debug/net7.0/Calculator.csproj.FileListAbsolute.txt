@@ -1,0 +1,15 @@
+/Users/santosodigie/Calculator/Calculator/bin/Debug/net7.0/Calculator
+/Users/santosodigie/Calculator/Calculator/bin/Debug/net7.0/Calculator.deps.json
+/Users/santosodigie/Calculator/Calculator/bin/Debug/net7.0/Calculator.runtimeconfig.json
+/Users/santosodigie/Calculator/Calculator/bin/Debug/net7.0/Calculator.dll
+/Users/santosodigie/Calculator/Calculator/bin/Debug/net7.0/Calculator.pdb
+/Users/santosodigie/Calculator/Calculator/obj/Debug/net7.0/Calculator.csproj.AssemblyReference.cache
+/Users/santosodigie/Calculator/Calculator/obj/Debug/net7.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/santosodigie/Calculator/Calculator/obj/Debug/net7.0/Calculator.AssemblyInfoInputs.cache
+/Users/santosodigie/Calculator/Calculator/obj/Debug/net7.0/Calculator.AssemblyInfo.cs
+/Users/santosodigie/Calculator/Calculator/obj/Debug/net7.0/Calculator.csproj.CoreCompileInputs.cache
+/Users/santosodigie/Calculator/Calculator/obj/Debug/net7.0/Calculator.dll
+/Users/santosodigie/Calculator/Calculator/obj/Debug/net7.0/refint/Calculator.dll
+/Users/santosodigie/Calculator/Calculator/obj/Debug/net7.0/Calculator.pdb
+/Users/santosodigie/Calculator/Calculator/obj/Debug/net7.0/Calculator.genruntimeconfig.cache
+/Users/santosodigie/Calculator/Calculator/obj/Debug/net7.0/ref/Calculator.dll
