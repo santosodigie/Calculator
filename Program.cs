@@ -44,4 +44,40 @@ while (!exit)
 static void PerformOperation(string operation)
 {
     Console.WriteLine($"Congrats you chose {operation}");
+
+    double num1 = GetValidNumber("Enter the first numnber: ");
+    double num2 = GetValidNumber("Enter the second numnber: ");
+
+    double result = 0;
+
+    switch (operation)
+    {
+        case "Addition":
+            result = num1 + num2;
+            break;
+        case "Subtraction":
+            result = num1 - num2;
+            break;
+        case "Multiplication":
+            result = num1 * num2;
+            break;
+        case "Division":
+            result = num1 / num2;
+            break;
+    }
+
+    Console.WriteLine($"The result of {operation} is {result}");
+}
+
+static double GetValidNumber(string prompt)
+{
+    double number;
+    Console.Write(prompt);
+    while (!double.TryParse(Console.ReadLine(), out number))
+    {
+        Console.WriteLine("Invalid input. Please enter a valid number.");
+        Console.Write(prompt);
+    }
+
+    return number;
 }
